@@ -1,4 +1,5 @@
-# Automated-Job-Resume-Matching-Solution - A Text_Mining Project Using Python/RapidMiner
+# Automated-Job-Resume-Matching-Solution 
+> A Text_Mining Project Using Python/RapidMiner
 
 ## Authors
 Zhao Hengrui(G1801739D)
