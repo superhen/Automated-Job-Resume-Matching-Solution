@@ -48,4 +48,4 @@ T. (1999). Maximizing text-mining performance. IEEE Intelligent Systems and thei
 
 > Fork or reference, please indicate the source @ Henry Zhao . Thx
 
-![](https://ws4.sinaimg.cn/large/006tKfTcgy1g17dz2w4orj30dc050aap.jpg)
+![](https://ws2.sinaimg.cn/large/006tKfTcgy1g17e2dj9n9j30bw028aam.jpg)
