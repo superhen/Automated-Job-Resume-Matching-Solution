@@ -7,7 +7,6 @@ Luo Shuang (G1702502A)
 Wang Sixin(G1801764B) 
 Xia Xiaolong(G1801412A) 
 
-> Fork or reference, please indicate the source @ Henry Zhao . Thx
 **Copyright@Nanyang Technological University**
 
 ## Introduction
@@ -46,3 +45,5 @@ Informatics 2, 4 (2015), 31.
 [11] Weiss, S. M., Apte, C., Damerau, F. J., Johnson, D. E., Oles, F. J., Goetz, T., & Hampp,
 
 T. (1999). Maximizing text-mining performance. IEEE Intelligent Systems and their applications, 14(4), 63-69.
+
+> Fork or reference, please indicate the source @ Henry Zhao . Thx
