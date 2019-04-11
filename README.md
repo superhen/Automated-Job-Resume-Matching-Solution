@@ -18,7 +18,7 @@ According to a 2015 study on job seeking behavior by Pew Research Center, 79% of
 ## License
 MIT LICENSE
 
-## Reference
+## References
 
 [1] Aaron, S. (2015). Searching for Work in the Digital Era, Pew Research Center, November 2015. Retrieved on October 15, 2018, from the website: http://www.pewresearch.org/wpcontent/uploads/sites/9/2015/11/PI_2015-11-19-Internet-and-Job-Seeking_FINAL.pdf
 
