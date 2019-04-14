@@ -1,8 +1,8 @@
 # Automated-Job-Resume-Matching-Solution 
 [![Blog](https://img.shields.io/badge/Blog-HenryZ-green.svg)](https://henryz.cn)
-[![GitHub stars](https://img.shields.io/github/stars/PoeticThemes/boo.svg?style=social&label=Star)](https://github.com/superhen/Automated-Job-Resume-Matching-Solution/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/PoeticThemes/boo.svg)](https://github.com/superhen/Automated-Job-Resume-Matching-Solution/network)
-![Bower](https://img.shields.io/bower/l/bootstrap.svg)
+![GitHub stars](https://img.shields.io/github/stars/superhen/Automated-Job-Resume-Matching-Solution.svg?style=social)
+![GitHub forks](https://img.shields.io/github/forks/superhen/Automated-Job-Resume-Matching-Solution.svg?style=social)
+![GitHub](https://img.shields.io/github/license/superhen/Automated-Job-Resume-Matching-Solution.svg)
 ---
 > A Text_Mining Project Using Python/RapidMiner
 ## Authors
