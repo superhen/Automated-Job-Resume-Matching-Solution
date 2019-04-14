@@ -3,7 +3,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/superhen/Automated-Job-Resume-Matching-Solution.svg?style=social)
 ![GitHub](https://img.shields.io/github/license/superhen/Automated-Job-Resume-Matching-Solution.svg?color=blue)
 ![GitHub forks](https://img.shields.io/github/forks/superhen/Automated-Job-Resume-Matching-Solution.svg?style=social)
-
 ---
 > A Text_Mining Project Using Python/RapidMiner
 ## Authors
