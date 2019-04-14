@@ -2,7 +2,7 @@
 [![Blog](https://img.shields.io/badge/Blog-HenryZ-green.svg)](https://henryz.cn)
 [![GitHub stars](https://img.shields.io/github/stars/PoeticThemes/boo.svg?style=social&label=Star)](https://github.com/superhen/Automated-Job-Resume-Matching-Solution/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/PoeticThemes/boo.svg)](https://github.com/superhen/Automated-Job-Resume-Matching-Solution/network)
-[![GitHub license](https://img.shields.io/apm/l/:packageName.svg)]
+[![GitHub license](![APM](https://img.shields.io/apm/l/vim-mode.svg))]
 ---
 > A Text_Mining Project Using Python/RapidMiner
 ## Authors
