@@ -1,10 +1,8 @@
 # Automated-Job-Resume-Matching-Solution 
-[![Demo status](https://img.shields.io/badge/live%20demo-online-brightgreen.svg)](https://boo-demo.poeticthemes.com)
-[![Release shield](https://img.shields.io/github/release/PoeticThemes/boo.svg)](https://github.com/PoeticThemes/boo/releases)
-[![Ghost version shield](https://img.shields.io/badge/ghost%20version->=%202.2.0-00BCD4.svg)](https://github.com/PoeticThemes/boo/releases)
-[![GitHub issues](https://img.shields.io/github/issues/PoeticThemes/boo.svg)](https://github.com/PoeticThemes/boo/issues)
-[![GitHub forks](https://img.shields.io/github/forks/PoeticThemes/boo.svg)](https://github.com/PoeticThemes/boo/network)
-[![GitHub stars](https://img.shields.io/github/stars/PoeticThemes/boo.svg?style=social&label=Star)](https://github.com/PoeticThemes/boo/stargazers)
+[![Blog](https://img.shields.io/badge/Blog-HenryZ-green.svg)](https://henryz.cn)
+[![GitHub stars](https://img.shields.io/github/stars/PoeticThemes/boo.svg?style=social&label=Star)](https://github.com/superhen/Automated-Job-Resume-Matching-Solution/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/PoeticThemes/boo.svg)](https://github.com/superhen/Automated-Job-Resume-Matching-Solution/network)
+[![GitHub license](https://img.shields.io/apm/l/:packageName.svg)]
 ---
 > A Text_Mining Project Using Python/RapidMiner
 ## Authors
