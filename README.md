@@ -1,5 +1,5 @@
 # Automated-Job-Resume-Matching-Solution 
-[![Blog](https://img.shields.io/badge/Blog-HenryZ-green.svg?style=popout&logo=Hulu)](https://henryz.cn)
+[![Blog](https://img.shields.io/badge/Blog-HenryZ-green.svg?style=flat&logo=Hulu)](https://henryz.cn)
 ![GitHub stars](https://img.shields.io/github/stars/superhen/Automated-Job-Resume-Matching-Solution.svg?style=social)
 ![GitHub](https://img.shields.io/github/license/superhen/Automated-Job-Resume-Matching-Solution.svg?color=blue)
 ![GitHub forks](https://img.shields.io/github/forks/superhen/Automated-Job-Resume-Matching-Solution.svg?style=social)
