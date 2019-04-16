@@ -6,6 +6,7 @@
 > A Text_Mining Project Using Python/RapidMiner
 ---
 ## Authors
+
 Zhao Hengrui(G1801739D)
 Luo Shuang (G1702502A) 
 Wang Sixin(G1801764B) 
